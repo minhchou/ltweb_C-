@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using WebsiteBanHang.Models;
 
 namespace WebsiteBanHang.Controllers
-    {
+{
     public class GioHangController : Controller
     {
         QuanLyBanHangEntities db = new QuanLyBanHangEntities();
